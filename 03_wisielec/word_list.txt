@@ -1,0 +1,3 @@
+krowa, kot, pies, kaczka, słoń, małpa, koń
+jabłko, truskawka, gruszka, pomarańcza, arbuz, malina
+marchewka, ziemniak, burak, kalafior, cukinia, por

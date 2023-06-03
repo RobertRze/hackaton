@@ -12,8 +12,3 @@ def get_books_list(link):
     book_id = int(input('Wybierz pozycję: '))
     in_url = str(link).replace('${book_title_form_file}', books_list[book_id])
     return in_url
-
-
-#book_list = get_book_from_file('books.txt')
-#print(book_list)
-#print(get_books_list())
