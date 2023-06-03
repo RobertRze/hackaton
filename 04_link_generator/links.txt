@@ -1,0 +1,11 @@
+
+ https://helion.pl/view/12345
+ https://helion.pl/view/54321
+ https://helion.pl/view/54321/algoip
+ https://helion.pl/view/12345
+ https://helion.pl/view/12345/algoip
+ https://helion.pl/view/98765/algoip
+ https://helion.pl/view/77777/${book_title_form_file}.htm#format/d
+ https://helion.pl/view/11111/${book_title_form_file}.htm#format/d
+ https://helion.pl/ksiazki/algorytmy-ilustrowany-przewodnik-aditya-bhargava,algoip.htm#format/d
+ https://helion.pl/ksiazki/algorytmy-ilustrowany-przewodnik-aditya-bhargava,algoip.htm#format/d -- https://helion.pl/ksiazki/algorytmy-ilustrowany-przewodnik-aditya-bhargava,algoip.htm#format/d
