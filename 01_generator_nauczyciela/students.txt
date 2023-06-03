@@ -1,0 +1,4 @@
+1A,Jan,Kowalski,1,4
+1A,Kasia,Poldasia,5,4
+2B,Brajan,Krajan,3,4
+2B,Jacek,Placek,2,4
